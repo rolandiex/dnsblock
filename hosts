@@ -33,6 +33,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 srv272a.com
 0.0.0.0 as.2020mustang.com
 0.0.0.0 vfthr.com
+0.0.0.0 www.vfthr.com
 0.0.0.0 iqbroker.com
 0.0.0.0 cb.run
 0.0.0.0 click.a-ads.com
@@ -40,6 +41,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 trafficjunky.com
 0.0.0.0 a.adtng.com
 0.0.0.0 zer0day.ch
+
+0.0.0.0 t.bdwafx.com
+0.0.0.0 tracker.ex.ua
+0.0.0.0 tracker1.wasabii.com.tw
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 myniceposts.com
+0.0.0.0 kdsmj.eateratmo.online
+0.0.0.0 gshui.eateratmo.online
+0.0.0.0 example.traffic-media.co
+0.0.0.0 vgb6t54g.icu
+
 # End yoyo.org
 
 # blacklist
